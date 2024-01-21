@@ -1,0 +1,26 @@
+.card {
+    width: 15rem;
+    margin-left: 2rem;
+    margin-bottom: 1.5rem;
+    background-color: rgb(84, 85, 87);
+    box-shadow: 0px 5px 10px 0px rgba(228, 222, 222, 0.9);
+    color: #fff;
+    border-radius: 5px;
+    transition: 1s;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+.poster img {
+    width: 15rem;
+    border-radius: 5px;
+}
+
+.info{
+    display:flex;
+    justify-content: space-between;
+    padding: 0.5rem;
+}
+

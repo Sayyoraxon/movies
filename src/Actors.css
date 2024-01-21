@@ -1,0 +1,33 @@
+.actor_cards {
+     margin-top: 1.5rem;
+     margin-bottom: 2rem;
+     margin-right: 1.5rem;
+     display: flex;
+     overflow-x: scroll; 
+}
+
+.actor_card {
+     background-color: rgb(60, 60, 60);
+     margin: 0 0.5rem;
+     border-radius: 5px;
+}
+
+.img_card {
+     width: 150px;   
+}
+
+.img_card img {
+     border-radius: 5px 5px 0 0;
+     width: 150px;
+     height: auto;
+}
+
+.actor_info{
+     padding: 0.1rem; 
+     color: white;
+}
+
+.character {
+     margin-top: 0.5rem;
+     font-style: italic;
+}
